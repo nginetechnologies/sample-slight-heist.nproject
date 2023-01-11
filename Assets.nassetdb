@@ -1,0 +1,2297 @@
+{
+    "0009975d-eca2-e4f7-f474-0d1088106dcd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Large.mesh.nasset/Barrier Large Yellow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "00fc1493-efe9-f79f-a452-365bf9748454": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Wall Strip.mtli.nasset"
+    },
+    "0190abb3-0bba-54cd-088e-9f1bd86f3ef3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/CardboardBoxes 1.mesh.nasset/CardboardBoxes 1 Tape.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "01a26465-22b2-47e6-cd5e-50a00a2fd4d8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Sign No Parking.mesh.nasset/Sign No Parking Wall Strip.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0323bb46-427c-24f7-9e46-6c7162d42e11": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Garage Door.mesh.nasset/Garage Door.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "036ff27b-7768-9743-9f1e-1183c2b5df0e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Papers 3.mesh.nasset/Debris Papers 3 White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "039dd877-8dd0-64e4-47c4-28df256cbf73": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Pile.mesh.nasset/Debris Pile Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0420c3df-e2cb-0180-dbbd-8c3265f3aff4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Windows.003.mesh.nasset/Wall Windows.003.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "04782320-0e64-b445-a211-a8429f37de15": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Entryway Concrete.mesh.nasset/Entryway Concrete.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "04f69458-d0d4-79e0-4118-fd6246d4541b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 1.mesh.nasset/Structure 1 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "053a2547-82ef-494c-ad71-6a550457964b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Fixed.mesh.nasset/Barrier Fixed Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "05fd0072-9c4f-00e1-878c-27bf49bbb74c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tree 3.mesh.nasset/Tree 3 Brown.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "063f7836-456f-b9a4-b97b-c889a331d486": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Asphalt 4x4.mesh.nasset/Asphalt 4x4 Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "07814089-0ebe-ca4c-97cb-996a32e4278f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Flat.001.mesh.nasset/Wall Flat.001.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "08035c1a-82f6-7c52-c553-7f00f241bfb8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Sign.mesh.nasset/Sign Yellow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "09c3364a-90c3-ab09-2e2d-9e49fabe661b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Large.mesh.nasset/Barrier Large White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "09dd9ec5-3cd9-325a-462f-a0d291ec4316": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Gas Can.mesh.nasset/Gas Can Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0b5ce943-cca8-cdbd-6fe1-3b3873e9ac95": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Concrete Flat.mesh.nasset/Concrete Flat.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0be9ecae-51ed-861a-edd2-5744d513f1ba": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/WaterTank Platform.mesh.nasset/WaterTank Platform White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0d3abbd3-4a95-2a02-a825-856260e1ffa4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Gas Tank.mesh.nasset/Gas Tank Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "103e6272-8e37-42d5-1ac1-114ae7ffe737": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Trash Container.mesh.nasset/Trash Container Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "10ae0053-be2e-e208-273f-14f78c65974d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Single.mesh.nasset/Barrier Single White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "11804cf6-bfa5-b16b-1107-4c07fa6b5c85": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/WaterTank Floor.mesh.nasset/WaterTank Floor.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "133072af-4330-bf09-418d-8552b9656abb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/WaterTank Floor.mesh.nasset/WaterTank Floor Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "13a56ac0-3cd1-9096-65da-fc95e81ea2a6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/StreetLight.mesh.nasset/StreetLight.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "155026db-ab4f-cce2-11b1-71523e998283": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Storm Covering.mesh.nasset/Storm Covering.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "15bd8b3d-ef94-52fd-45d1-0f3108d62910": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Concrete Raised.mesh.nasset/Concrete Raised Concrete Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1631a29e-faab-2a80-4d3a-8f5510d9b2ac": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 2.mesh.nasset/Structure 2 Cardboard.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "17733fe9-ab5a-9bd8-37ce-9cd937f37b07": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Red Dark.mtli.nasset"
+    },
+    "183b32d7-139e-585c-973a-b616862d4753": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 2.mesh.nasset/Structure 2 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "18ae5b85-fc13-16d9-b780-eb46d0e6bae1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Trash Container.mesh.nasset/Trash Container Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1a546be5-5a5f-e68f-e257-bce10e10529a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Large.mesh.nasset/Barrier Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1ad13fe5-a9f7-128b-3062-ca9130f86485": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Papers 1.mesh.nasset/Debris Papers 1 White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1beab376-d09b-ca2e-6ff5-d89f4e8c991c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Trash Container Open.mesh.nasset/Trash Container Open Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1cca33e7-9dd2-c236-2e0a-da050a266d31": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tree 4.mesh.nasset/Tree 4 Green Tree.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1d745708-6327-35de-ac9f-44cbdd5c1722": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/StreetLight.mesh.nasset/StreetLight Light Emission.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1d839417-40f0-fd01-e00a-4aa9709a1351": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stripe Angle White.mesh.nasset/Stripe Angle White Wall Strip.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1eaf796f-38ef-04a4-9022-f3c2afe4954b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stage Platform.mesh.nasset/Stage Platform.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1f203670-a137-3e4c-bd36-aeeb5bec2c3c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/CardboardBoxes 3.mesh.nasset/CardboardBoxes 3 Cardboard.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "200a23fc-e90a-1954-b298-f6f0d643f830": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Trash Container Open.mesh.nasset/Trash Container Open Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "20b5d3ef-f062-a0bf-2692-235d09ff6567": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Metal Fence.mesh.nasset/Metal Fence.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "222fbfe7-8a97-4df5-a7ad-cfe5c57fc7a2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Flat.mesh.nasset/Wall Flat.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2322b8c6-ea84-8ee5-cf91-8772bf4e301e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Sign.mesh.nasset/Sign Brown.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "233b63f2-1eef-7118-1513-c8c7d18ce8c4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tree 3.mesh.nasset/Tree 3 Green Tree.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "25192249-c376-ebae-84ca-7cbbc90ed36c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Panel.mesh.nasset/Wall Panel Wall Strip.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "260d8719-9b4b-81c5-ea2e-884fc9db7c05": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Broken Car.mesh.nasset/Debris Broken Car Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "26787083-9721-8c82-2047-158519f34d74": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Solid 8x8.mesh.nasset/Wall Solid 8x8 Brown.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2691c2f2-8e64-5c46-97fd-d799131ec8e2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tree 4.mesh.nasset/Tree 4.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "26b5c791-e9c3-9881-522b-46d3b15cfb8b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Single.mesh.nasset/Barrier Single Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "27243ac3-51ee-d99f-b5e6-b10a60ce4639": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stripe Angle White.mesh.nasset/Stripe Angle White.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "285c13c6-d453-be17-78a0-84f9c661e73b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Container Long.mesh.nasset/Container Long Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "28e35863-38b2-3ab4-6176-23ea5415337d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Crate.mesh.nasset/Crate Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "290cf79a-2283-89a1-5744-0c4eb57a8b54": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Side Vent Ridged.mesh.nasset/Side Vent Ridged Concrete.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "29816e4f-ebed-77d1-bd9c-d65856470d28": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Panel.mesh.nasset/Wall Panel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "29c1622e-bf39-f018-b361-d4ce083b334e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Walkway.mesh.nasset/Walkway Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "29de39ca-9425-4f32-bdad-3e347eb70246": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Pipes.mesh.nasset/Pipes.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2e15f541-7d16-456b-0d48-f008bb928088": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Side Vent Flat.mesh.nasset/Side Vent Flat.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "33401260-fb29-57c6-297f-96e81ad770d1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Flat.001.mesh.nasset/Wall Flat.001 Heist Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3346fe2e-b759-d65c-9bc7-90d1459e01b5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Support Pillar 01 Thin.mesh.nasset/Support Pillar 01 Thin Brown.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "350d38a8-7831-06d8-e782-5215e0902519": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Gas Can.mesh.nasset/Gas Can Red Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "35c8ffd6-2d78-e031-128f-ebcab8ffd73e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Trash.mesh.nasset/Barrier Trash Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "386549bd-8c73-1d0e-8d0b-0bd7b208ee48": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Yellow.mtli.nasset"
+    },
+    "38797d8d-26ad-371e-fd39-62443edc0d42": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/SackTrench.mesh.nasset/SackTrench.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3a18131e-3b04-64d7-c821-338e50dba178": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Container Long Open.mesh.nasset/Container Long Open Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3a3a34f1-b8f9-ceb8-ab6e-b6f2e9d03563": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Windows.003.mesh.nasset/Wall Windows.003 Wall Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3a3db53c-21be-42b3-507b-234547acf330": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Fence Long.mesh.nasset/Fence Long Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3ab745aa-6a7d-608d-321a-60e00705f78f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Mindkraft_EnviroSpecular.tex.nasset"
+    },
+    "3ad34ecd-3216-4cf3-3b3b-a5afc4e0035b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Gas Tank.mesh.nasset/Gas Tank White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3d94f32c-69e2-3f9e-8b25-6bfdfcf96dc4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Container Small.mesh.nasset/Container Small Blue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3e4f5499-b332-f115-e177-580e5ac52641": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Grey. Blue.mtli.nasset"
+    },
+    "3e5e37ef-7533-a831-4de7-eb6d2b457523": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Fence Long.mesh.nasset/Fence Long.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3fb06e75-0f9e-ec65-a021-2c7e2218626b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Fence.mesh.nasset/Fence.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "401baf99-12be-8993-b3c7-ce3be43a5596": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Pallete Broken.mesh.nasset/Pallete Broken.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "40a1d528-f4d1-9d3f-7fd2-e137be5c087b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/BearTrap Closed.mesh.nasset/BearTrap Closed Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "410575e7-aa79-ade4-e653-8ead7a2b27cf": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Grey Darker.mtli.nasset"
+    },
+    "41433c12-2162-c2b1-a7c6-3574347dc28c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Textures/T_storageAtlasBlue_D.tex.nasset"
+    },
+    "419cf8cc-9f68-4bf1-9458-821d35e34c23": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/ExplodingBarrel Spilled.mesh.nasset/ExplodingBarrel Spilled Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "444fb50d-5306-cb52-7aa4-96d9a5ded0d6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 3.mesh.nasset/Structure 3 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "44862320-75f5-6d5c-3ab4-9c46cab762c7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Red.mtli.nasset"
+    },
+    "466af274-640b-c556-285b-fbabdeafe313": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/CardboardBoxes 2.mesh.nasset/CardboardBoxes 2 Tape.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "46816fe1-c854-094a-fc2d-ee1454e8bd01": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stage Platform.mesh.nasset/Stage Platform Grey Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "46ca855c-23e5-e2a7-2337-ceaec877da25": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Trim.mesh.nasset/Wall Trim.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "470f4039-dbc2-b128-5078-97f282914132": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Landmine.mesh.nasset/Landmine Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "48fe9ad0-8a61-33fa-9d6f-73a2568337be": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Railing Small.mesh.nasset/Railing Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "496238c2-d538-8983-502e-eeae2f4af6d1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Railing Large.mesh.nasset/Railing Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "497e01c4-8cd8-fdf1-2ae1-78b65f5f5372": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/SackTrench Small.mesh.nasset/SackTrench Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "49f48ba7-1c93-25d6-e3f0-a38c7171bf62": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Side Vent Ridged.mesh.nasset/Side Vent Ridged.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4b016e44-8ade-1052-62cb-de0b0f7d5a63": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Exploding Barrel.mesh.nasset/Exploding Barrel Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4b232a9e-f155-9395-a448-acbf53c594c3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Sign No Parking.mesh.nasset/Sign No Parking.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4c1e259e-ad84-6892-eba7-aa30ef7c5f43": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 2.mesh.nasset/Structure 2 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4d85b91d-6c0c-d1e8-813a-c2e5af649a08": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Walkway.mesh.nasset/Walkway Concrete.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4d8a712f-e490-78c9-1001-b6290af33a6f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Grey Dark.mtli.nasset"
+    },
+    "4dc83891-c7a9-60ff-e8c2-63172525a733": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Blue.mtli.nasset"
+    },
+    "4f0d4919-f80c-2700-c687-6e50de8203aa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Container Long.mesh.nasset/Container Long.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "53491c88-d207-1bcf-95fa-6963df8b8148": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Trim.mesh.nasset/Wall Trim Heist Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "541fa9a8-e102-7bd3-a370-2f07efeb74b3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/CardboardBoxes 4.mesh.nasset/CardboardBoxes 4 Tape.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "542c5096-1c2f-4c89-4fc7-1d87b64ebe99": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tree 1.mesh.nasset/Tree 1 Brown.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "548562f2-09f7-638e-7dc5-3e3ca47f2852": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Pile.mesh.nasset/Debris Pile.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "565b51ea-3da6-6fa9-e257-4e617565e460": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Trash.mesh.nasset/Barrier Trash Sack.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "56fd94ac-ab14-0f29-4054-618057bba2e9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/WoodPlanks.mesh.nasset/WoodPlanks Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/M_Skybox.mtli.nasset",
+        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
+    },
+    "5acf1575-e976-12a6-e44c-275aa3acf5ab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Trash.mesh.nasset/Barrier Trash Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5d360332-b272-4b05-64ef-614ecf7856dc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Fixed.mesh.nasset/Barrier Fixed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5d6ec8b8-9467-e4b7-5142-ebb1f837eeab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tank.mesh.nasset/Tank Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5fc387d3-11eb-d748-92de-ae3fadecbb46": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 2.mesh.nasset/Structure 2 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "601ad609-6928-6f3b-85ff-8f2101c6dc7d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Solid 8x8.mesh.nasset/Wall Solid 8x8.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "604de945-8c24-f269-544a-82c412a6b4bc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/BearTrap Open.mesh.nasset/BearTrap Open.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "60a131d5-fb30-6aad-a4e8-3bf716d7a116": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/WoodPlanks.mesh.nasset/WoodPlanks.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "611b4aed-1562-30c6-922e-79e511d2bd26": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Exploding Barrel.mesh.nasset/Exploding Barrel White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "61deecec-1df9-28db-a0c0-25d22ebea380": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tree 3.mesh.nasset/Tree 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "63ff8c7b-11b7-fb00-6f17-12faa355f205": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/CardboardBoxes 4.mesh.nasset/CardboardBoxes 4 Cardboard.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "65a36963-ac37-050b-f668-0a19c188e3df": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Oil.mtli.nasset"
+    },
+    "66114c5d-4596-c75d-a1cd-edf519a01953": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Health.mesh.nasset/Health Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "669139d1-e5d4-490b-435d-e867a3042ad5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Single.mesh.nasset/Barrier Single Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "66e9e179-19cf-8e92-76f5-1a329d2f7ad7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Railing Large.mesh.nasset/Railing Large Grey Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "67e6056d-3a38-bdd3-ad87-4852b2dbfaac": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Light Emission.mtli.nasset"
+    },
+    "67edff53-1083-f265-d8cb-3ffbc3ab23e3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/ExplodingBarrel Spilled.mesh.nasset/ExplodingBarrel Spilled Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "68995b14-5992-96f2-b5ad-5ac738cfe38a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stripe Single White.mesh.nasset/Stripe Single White.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6a6058e9-b758-c365-9db0-589c24faa328": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tree 1.mesh.nasset/Tree 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6ba3ab83-af42-b41f-14d6-189711eb4741": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Concrete Dark.mtli.nasset"
+    },
+    "6bd2fd5a-cceb-2f78-5422-cc4154841156": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Pile.mesh.nasset/Debris Pile Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6c137853-4e03-f4a5-dcfe-7a8efd14cc82": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/CardboardBoxes 2.mesh.nasset/CardboardBoxes 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6cb08cd2-b1c5-2f8a-83c7-9ec8386649b5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/ExplodingBarrel Spilled.mesh.nasset/ExplodingBarrel Spilled Oil.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6e04512e-75a9-8d8c-3ebc-142f60782670": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Trash Container Open.mesh.nasset/Trash Container Open Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
+        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
+        "path": "Assets/Physical Materials/Box.physmat.nasset"
+    },
+    "6f5f7860-ceb5-f20a-8d24-3be82a1f12b3": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Brown.mtli.nasset"
+    },
+    "715eae26-c9c0-d0a0-b699-dc49ac849250": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 2.mesh.nasset/Structure 2 Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "718554a4-cb0b-54a3-8d54-7f8b2a88f5f5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stripe Single White Long.mesh.nasset/Stripe Single White Long.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "74aa72d3-94df-5e3c-ecfb-3db576b0ea20": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Support Pillar 01.mesh.nasset/Support Pillar 01 Brown.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "74d94897-f880-9149-eff1-5cce337ed834": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Wood.mtli.nasset"
+    },
+    "750f6f62-a7aa-04e5-30ec-2692703dfffc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Sign.mesh.nasset/Sign.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7531d328-d11c-bddf-f66f-8d2c708d93f5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Papers 2.mesh.nasset/Debris Papers 2 White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "759cf847-f96b-679f-aefb-e011f7d33067": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Walkway.mesh.nasset/Walkway Grey. Blue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "75f3bd17-597e-5bbd-7d31-b04a45083afc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Railing Small.mesh.nasset/Railing Small Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "761bdd91-4218-7fa0-1f92-fdfb3e57af58": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Large.mesh.nasset/Barrier Large Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "762d4538-9576-1b07-b5af-2b56b2977aec": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Tank Main.mtli.nasset"
+    },
+    "765c44e3-5700-cd26-4608-7131951804f4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Doorway.mesh.nasset/Wall Doorway.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7996d211-4ce0-e469-5a19-d041873dd065": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tree 4.mesh.nasset/Tree 4 Brown.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7b6280f3-0e4e-f121-b6ad-9f1e68d5f0b6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tree 2.mesh.nasset/Tree 2 Green Tree.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7cffce2d-47fd-f782-da36-68399828c2cb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Trash.mesh.nasset/Barrier Trash Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7e128265-a2d6-49da-946d-5a11ae9e7c91": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 3.mesh.nasset/Structure 3 Tape.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "82ca9452-2457-ea1d-d68c-dcff6085da76": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 3.mesh.nasset/Structure 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "833a815c-5ee1-4f74-fd47-fa31d6fdf851": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 4.mesh.nasset/Structure 4 Yellow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "83ff29cb-97fc-44f8-b881-401ef94dd769": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Slight Heist.scene.nasset"
+    },
+    "86a8fa17-9275-555c-0a62-a0829c2db523": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tank.mesh.nasset/Tank Tank Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "872cd8b8-7d18-1c05-4851-1d5dce5f1414": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tree 1.mesh.nasset/Tree 1 Green Tree.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "87db6eab-3d6c-0d62-bcb3-2ae9ba763555": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Landmine.mesh.nasset/Landmine Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8835e47f-1bec-7680-8aa4-bff3b158bc5e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Grey.mtli.nasset"
+    },
+    "8a3dbc4f-a17a-bda3-6828-02acf0bee53c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 3.mesh.nasset/Structure 3 Blue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8c25b739-92a3-ad31-8965-47d073e218d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Pallete.mesh.nasset/Pallete.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8d63a575-7b27-e27d-a08c-bdabe206f0a2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 2.mesh.nasset/Structure 2 Tape.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8db230b1-81be-334f-bbe2-0e4fa50a8bf9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Metal Fence.mesh.nasset/Metal Fence Fence.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8f4e56cb-67ff-6a54-b0c4-6d6a416924f4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Gate Door LG.mesh.nasset/Gate Door LG.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "910c35f6-e692-fecd-4eab-2cb738fee2fa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Traffic Cone.mesh.nasset/Traffic Cone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "91699ac0-e553-4abd-0582-65ccedd9d668": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Large.mesh.nasset/Barrier Large Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "92c50d7e-708f-34df-fce2-77be6192038d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Sign Drop Zone.mesh.nasset/Sign Drop Zone Wall Strip.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "92ca6499-1fa5-a729-9ea9-4235819251a9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tank.mesh.nasset/Tank.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "93731759-b3ac-d378-0585-017d2e2a7794": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stripe Single White.mesh.nasset/Stripe Single White Wall Strip.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "94d4135d-e800-d854-deef-696ed1e02716": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Single.mesh.nasset/Barrier Single Yellow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "95f01117-7ae9-4421-575f-5f0dd49faeb5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Trim Thin.mesh.nasset/Wall Trim Thin Brown.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9699354c-bd9a-8f84-f7e1-ecefa3422f56": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tree 2.mesh.nasset/Tree 2 Brown.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "96cc393e-0dde-0f54-2425-c064cd486b53": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Trash Container.mesh.nasset/Trash Container Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "970c6b67-bd2f-3c76-1719-c49cb91b6b1c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/CardboardBoxes 4.mesh.nasset/CardboardBoxes 4.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "97106c32-cc9f-b88b-976b-09839a7f9a22": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stripe Single White Long.mesh.nasset/Stripe Single White Long Wall Strip.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "97c9041e-5f8a-d8dd-99a1-a0f3b3c0eb99": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Traffic Cone.mesh.nasset/Traffic Cone Orange.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "97cd9726-350f-b48f-53f4-4aaff9533902": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Storm Covering.mesh.nasset/Storm Covering Grey. Blue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "980ae54d-a6fe-47ab-21b3-d69149ad3bbb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Broken Car.mesh.nasset/Debris Broken Car.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "981e6695-4962-d796-c58d-522f3c98d61b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Black.mtli.nasset"
+    },
+    "9b249714-b890-3be3-4863-6764fd33c914": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Trim Thin.mesh.nasset/Wall Trim Thin.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9bda286a-e722-2208-594f-4333ac17f5fb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Corner Frame Bldg.mesh.nasset/Corner Frame Bldg.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9bf5f08d-a978-7b5d-815e-57da64c058c9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Orange.mtli.nasset"
+    },
+    "9cbfb1e0-4627-afbf-f0ed-f095e507f24e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Gate Door Wall LG.mesh.nasset/Gate Door Wall LG Heist Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9d124264-dd79-766d-df69-39c7089162ba": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/ExplodingBarrel Spilled.mesh.nasset/ExplodingBarrel Spilled.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9defacbc-5e66-c5a9-07d2-23995472bc97": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Container Long Open.mesh.nasset/Container Long Open Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9f01ea3d-309f-d977-69e2-5872d26d50d1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Concrete Flat.mesh.nasset/Concrete Flat Grey Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9f0f522d-4f4c-10fd-3194-fcfa7f5b7f13": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Cardboard.mtli.nasset"
+    },
+    "a0b04093-e049-d50b-5638-175a6ef8ad18": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Wood Light.mtli.nasset"
+    },
+    "a0f66c84-ae44-980e-4013-d53b71330cbb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Traffic Cone.mesh.nasset/Traffic Cone White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a0fe9a11-5b13-109c-896b-d99dcec1bafe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 4.mesh.nasset/Structure 4 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a1108c00-d945-7ff6-1fe4-4ee87407ec0f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Landmine.mesh.nasset/Landmine Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a2f32cf3-3158-cc72-1889-ba8be2e1e784": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 1.mesh.nasset/Structure 1 Cardboard.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a2fc91b6-c83b-24ae-5b99-8e82cc40d22d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Gate Door LG.mesh.nasset/Gate Door LG Heist Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a30dc42b-7dbe-754b-9329-765f4a89be59": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Papers 1.mesh.nasset/Debris Papers 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a3af7f69-dd38-a999-caa3-a8a32ab172e9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Corner Frame Bldg.mesh.nasset/Corner Frame Bldg Heist Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a4520d51-ab9d-246f-5e91-072808d111f0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/CardboardBoxes 3.mesh.nasset/CardboardBoxes 3 Tape.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a518a33c-5a04-ec24-b81c-acd59b96e1d4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Sign Drop Zone.mesh.nasset/Sign Drop Zone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a6e8b812-86ee-20ce-4d85-fe4a3ec07690": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_Skybox.tex.nasset"
+    },
+    "a744b2a0-9505-6814-30ee-6a15f57c0292": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/WaterTank Platform.mesh.nasset/WaterTank Platform Grey Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a7bb44be-2253-8468-3ed2-0eebe2f47a52": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Pallete Broken.mesh.nasset/Pallete Broken Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a8460e07-17a7-ffca-3bb0-88a1af425e82": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Trash.mesh.nasset/Barrier Trash.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a9d9f728-0227-29cb-cd3e-03df2c923ca6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tree 2.mesh.nasset/Tree 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "aacadeaf-5969-0732-be8f-6d8482e1aeb1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stripe Angle Yellow.mesh.nasset/Stripe Angle Yellow Yellow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ab941f61-92b9-c02e-73bc-fda587c0d312": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Garage Door.mesh.nasset/Garage Door Concrete Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "abba241d-24df-8576-999c-ec5bf3502932": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Health.mesh.nasset/Health White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "abf4a01a-996e-6f8d-c9c9-4678d5ad39eb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Key.mesh.nasset/Key Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ade406b7-0758-cf11-154b-214a790720ce": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Trash.mesh.nasset/Barrier Trash Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "adf1ff0a-f56d-cc8e-8e10-9ca41897532f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Single.mesh.nasset/Barrier Single.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ae98889c-205b-363f-8d7c-90ad8578b925": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Container Small.mesh.nasset/Container Small Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b0292d35-f541-351c-c0fe-1ea45f774506": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Fixed.mesh.nasset/Barrier Fixed White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b19e4799-7c4a-52cb-97fa-b386c23c8fdc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Panel.mesh.nasset/Wall Panel Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b2d3d32c-bf9e-5263-aab9-1dc75a366d5a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/WaterTank Platform.mesh.nasset/WaterTank Platform.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b2df9b32-2b49-d42b-f67a-cfe2a860eba2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/BearTrap Open.mesh.nasset/BearTrap Open Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b3d8d12c-962f-20f2-9cd4-86e003916310": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 1.mesh.nasset/Structure 1 Tape.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b3f055ba-b88c-740c-ca5f-98e4322c843a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Windows.mesh.nasset/Wall Windows Wall Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b41d7b72-8869-6901-74d7-c7e8e216486c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/CardboardBoxes 1.mesh.nasset/CardboardBoxes 1 Cardboard.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b5798ba5-edfc-d1c0-083d-5e6d73cb1c34": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Key.mesh.nasset/Key.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b6e32926-1efd-ef81-7658-2d2087e6a305": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Cyan.mtli.nasset"
+    },
+    "b7282f2f-8e5e-0532-3703-0a61deeabad6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Side Vent Ridged.mesh.nasset/Side Vent Ridged Grey. Blue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b78d6772-04da-dfe3-26cd-83b1a0436b87": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Textures/T_Fence_D.tex.nasset"
+    },
+    "b86145ec-bf26-69f7-f49f-f77c34395d6a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Health.mesh.nasset/Health Red Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b86b0e58-4e57-2a80-7670-75687e2091a2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/WaterTank Floor.mesh.nasset/WaterTank Floor Grey Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b8c64657-e8f3-ab4c-74a0-e90c5ae32128": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Support Pillar 01 Thin.mesh.nasset/Support Pillar 01 Thin.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b978b5ba-9566-845e-ed1b-2f82449e51b5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Gate Door Wall LG.mesh.nasset/Gate Door Wall LG.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ba25cd63-ce71-8836-fcad-ce060daa791c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 1.mesh.nasset/Structure 1 Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bb00f57e-da90-f55c-27ac-8a88d06ad119": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 3.mesh.nasset/Structure 3 Grey Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bb8cf29f-8374-f719-d2fb-afee73dbc8df": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Tires.mesh.nasset/Debris Tires.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "bc005671-cabb-e2d2-967e-0fab2437f114": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Tape.mtli.nasset"
+    },
+    "bc3ee391-f715-00de-e0e7-f591c52b5d7b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Trash Container Open.mesh.nasset/Trash Container Open.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "bdcde6f4-de45-4abe-e655-e34752980227": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Trash Container Open.mesh.nasset/Trash Container Open Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bf611dee-b119-b298-5bbb-bb4729086358": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stripe Single Yellow.mesh.nasset/Stripe Single Yellow.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c0333684-ddbd-6aeb-3bda-6562cc8cd46a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Fixed.mesh.nasset/Barrier Fixed Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c13713c1-ff9a-2429-e02d-50c15ceb61d4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 3.mesh.nasset/Structure 3 Cardboard.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c1eb0c17-a348-e3d1-d723-fef3a5f7d195": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Walkway.mesh.nasset/Walkway.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c1ef9aca-7a9d-8282-329f-c0a80bc3db16": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Pallete Broken.mesh.nasset/Pallete Broken Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c2940fa0-88d1-e650-7003-f9e85ffe8c39": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Mindkraft_Enviro.tex.nasset"
+    },
+    "c29edd5c-14ac-0f89-17e2-13ab9a0fb1f3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Container Long.mesh.nasset/Container Long Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c3270846-f91d-a94a-1497-749a96492e3a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Fixed.mesh.nasset/Barrier Fixed Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c32c8613-7aa4-6e1f-a722-c79c30545cde": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 4.mesh.nasset/Structure 4 Cyan.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c56ba259-a767-7cc4-03f8-0d9de7f483fe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 4.mesh.nasset/Structure 4 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c58108d0-89f2-6a14-784d-3853fe105301": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Concrete Raised.mesh.nasset/Concrete Raised.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c6ad92b6-037b-c020-1126-57651384b65e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Papers 2.mesh.nasset/Debris Papers 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c6db49b3-b503-28e1-e504-3f84244118fc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 2.mesh.nasset/Structure 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c8a0e5f2-735d-efe2-b52f-aa1b47822691": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 3.mesh.nasset/Structure 3 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c8d2a008-103e-4a5a-708f-20d967d9858b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Container Long Open.mesh.nasset/Container Long Open.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ca23aca9-7814-f814-ff47-01a1e53c30b4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Gas Tank.mesh.nasset/Gas Tank Yellow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ca489b90-fc1f-e3f9-460b-ffad8662c734": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Landmine.mesh.nasset/Landmine.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "caf11de8-5b13-829c-74ac-b4d976b240ae": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Trash Container.mesh.nasset/Trash Container.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "cb5657a8-688f-d35a-8f60-a8223d527852": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Trash.mesh.nasset/Barrier Trash Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cc0e2b08-d053-ba3d-7b3b-9aa09a26d3cd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Flat.mesh.nasset/Wall Flat Heist Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cca796d9-1a0f-061d-486d-012d0217cf3e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/SC_Heist_Enviro.scene.nasset"
+    },
+    "ce8fd462-15c0-2885-c391-2a5c8c46e11d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Broken Car.mesh.nasset/Debris Broken Car Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cee59859-4d30-3278-3066-ab17121005db": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Broken Car.mesh.nasset/Debris Broken Car Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cf547976-5168-d456-1bdc-49f86fc398ae": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Health.mesh.nasset/Health.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d001daff-1530-cd71-e1df-9215a5470fe9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Windows.mesh.nasset/Wall Windows.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d181c4db-1860-9056-ad39-d74bd161d766": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Sack.mtli.nasset"
+    },
+    "d30e3870-4e55-6943-d5c9-ee8e4e55422f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Doorway.mesh.nasset/Wall Doorway Wall Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d3823c6f-0720-6cad-062f-9effcd8af76c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Green.mtli.nasset"
+    },
+    "d4062dcb-43d4-5a86-eaab-2aee965aa16c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 1.mesh.nasset/Structure 1 Grey Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d54e9059-4ea6-6374-675d-d468fd7e3da9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/White.mtli.nasset"
+    },
+    "d5c6c071-8a84-5ae1-63c1-5a45539f63c5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/WoodPlanks.mesh.nasset/WoodPlanks Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d5caa530-d2d4-844d-1b05-dc30361976f5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Papers 3.mesh.nasset/Debris Papers 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d723d6ad-9cba-5b54-d5be-85d708d772d2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/CardboardBoxes 1.mesh.nasset/CardboardBoxes 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d8327e85-f16e-2612-2419-ad19d8cc9d61": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Gas Can.mesh.nasset/Gas Can Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d991c59b-0cd9-a149-ae34-cbbf0541065a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 4.mesh.nasset/Structure 4 Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d9da960e-65f9-3385-8fee-8f6a37a3e0c0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Concrete.mtli.nasset"
+    },
+    "d9fa4ff1-8968-23db-8e67-77642cb4d88e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Mindkraft_EnviroDiffuse.tex.nasset"
+    },
+    "d9ff31ea-55a2-9863-4721-f00e7febd6ff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Crate.mesh.nasset/Crate Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "da36c72b-c3b9-e43e-16cc-c8c3f5711b0c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Wall Green.mtli.nasset"
+    },
+    "dab9ad06-eed4-f762-e9c8-1390f0fe1eea": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Asphalt.mtli.nasset"
+    },
+    "db6f4e80-a105-0b7a-6e08-61915880cc56": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Exploding Barrel.mesh.nasset/Exploding Barrel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "dbdc79b4-1d0a-820f-8d0f-b6b44f8e2889": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 1.mesh.nasset/Structure 1 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "dbe2dd5d-139e-06d9-765a-99cf34400bd6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Exploding Barrel.mesh.nasset/Exploding Barrel Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "dc3ba40e-ee65-aa1a-affe-393c3a68cdcf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/CardboardBoxes 3.mesh.nasset/CardboardBoxes 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "dc9d7aa4-4188-8189-a454-3fb2688152ce": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Large.mesh.nasset/Barrier Large Fence.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "dcad8d01-ff50-b8db-bbaa-a4a1904d05a2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Entryway Concrete.mesh.nasset/Entryway Concrete Concrete.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "dcf1b074-0aec-26ac-112c-6f89da53409c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Support Pillar 01.mesh.nasset/Support Pillar 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "de85ea02-8b42-cee6-1819-dfe86bb4de60": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Fixed.mesh.nasset/Barrier Fixed Fence.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e0ed9dab-2627-6bac-c2eb-4c979477daae": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Pipes.mesh.nasset/Pipes Grey Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e21603fc-8cd4-3692-24b3-3475cd185595": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/WaterTank Floor.mesh.nasset/WaterTank Floor White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e232a8f6-58b6-87bc-10da-255067364bb2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Container Small.mesh.nasset/Container Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e29ee55b-3137-b3ce-6357-e94f6aa729e9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/CardboardBoxes 2.mesh.nasset/CardboardBoxes 2 Cardboard.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e375a94f-630d-5a7d-ad8f-ec88b1b46d7f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 4.mesh.nasset/Structure 4 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e37e0c07-6791-d9b2-a479-f7046e1f44f2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Metal Fence.mesh.nasset/Metal Fence Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e3a6af84-8bc3-1d0f-c86c-aab0aa82e335": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Grey Light.mtli.nasset"
+    },
+    "e70a4531-3a7c-ff0b-1cf2-454b8e6320aa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Crate.mesh.nasset/Crate.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e7634d88-688c-9674-abc9-464d36cc14d9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Fixed.mesh.nasset/Barrier Fixed Yellow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e79be812-b4e3-1352-b652-5578b04f9361": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Trash Container Open.mesh.nasset/Trash Container Open Oil.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e8fc478e-7551-b8a0-2b61-8694d58f899d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/ExplodingBarrel Spilled.mesh.nasset/ExplodingBarrel Spilled White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e95160b5-9f01-a360-4319-88759e54333f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Player/Thumbnails/Player.scene.nasset.tex.nasset"
+    },
+    "e9ecf168-153f-f2d0-21aa-93fb67bdefba": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Pallete.mesh.nasset/Pallete Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e9f7ce79-baaf-8d66-ac0d-1df2f1d43a8a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Pile.mesh.nasset/Debris Pile Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "eacaeba5-2f85-9bd4-5bfe-604097e18146": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/SackTrench.mesh.nasset/SackTrench Sack.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "eb050dd3-5958-980a-ff9f-145907350835": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/SackTrench Small.mesh.nasset/SackTrench Small Sack.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "eb9c1c10-7193-4560-870d-c76cde3b19f2": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "thumbnail": "f219ecab-2683-4910-8f8e-9309bbe2eb9f"
+    },
+    "ec66ce19-1e67-478b-a8e6-07b9cf74df4c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Player/Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "eedf670a-c465-23ec-62fb-28828904cbb5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Side Vent Flat.mesh.nasset/Side Vent Flat Concrete.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ef5b29e3-b15e-e110-65dd-5f73460d29d6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 4.mesh.nasset/Structure 4 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ef72638f-d73a-7080-82c9-19c5f53ae205": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Pipes.mesh.nasset/Pipes Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f01831c6-22cd-1f1a-bbbb-c6366bf4528b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 1.mesh.nasset/Structure 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f2169d03-a97b-9390-6c1a-1a9f2a8dc413": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stripe Single Yellow.mesh.nasset/Stripe Single Yellow Yellow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f29d1901-298a-b16f-343f-d0d438d4ede5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Green Tree.mtli.nasset"
+    },
+    "f5a44388-55ec-e3e5-b2ba-d5a9363ecea8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Tires.mesh.nasset/Debris Tires Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f5d691b9-7ca8-52e4-b5e3-a2dfe4757fff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Gas Tank.mesh.nasset/Gas Tank.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f6a147a1-34f0-8937-bfc2-7732bb077a29": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Fence.mesh.nasset/Fence Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f6e526af-9321-91e2-6215-03994f9c11c9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tank.mesh.nasset/Tank Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f718eef5-05bf-92e5-a813-365f47504a54": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Gas Can.mesh.nasset/Gas Can.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f7348b2f-e8a7-dc33-b07c-93aed5bbb854": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/StreetLight.mesh.nasset/StreetLight Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f88dc0a5-0031-c390-b964-665fc3f2c9da": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Heist Atlas.mtli.nasset"
+    },
+    "f99f6fb5-245d-7ea7-0daf-bd151a4f5ce1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/BearTrap Closed.mesh.nasset/BearTrap Closed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fa6da2f1-521f-17de-1e40-0e3e7a3a1a59": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Garage Door.mesh.nasset/Garage Door Grey. Blue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "faec3a8b-10c3-b41a-fa86-3699a4addb9e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 2.mesh.nasset/Structure 2 Yellow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "faedf6ba-5c53-1a08-21f3-5f2cc8c18f17": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stripe Angle Yellow.mesh.nasset/Stripe Angle Yellow.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fcb01120-3e47-8aa2-6e6a-95fe96ac06ab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 2.mesh.nasset/Structure 2 Grey Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fcbacd3d-2fb8-cb45-34e3-f7ce82a37d09": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 4.mesh.nasset/Structure 4.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fdec1b38-6968-27c7-402b-1acb95e54726": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Asphalt 4x4.mesh.nasset/Asphalt 4x4.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fe9ac078-e500-0cfd-7097-95d0a81f7cb8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/WaterTank Platform.mesh.nasset/WaterTank Platform Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fec45acc-e1c0-4fce-28e8-e6e9fb7bc840": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Fixed.mesh.nasset/Barrier Fixed Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ff09be4d-8378-c930-9b27-1e0a6a673d7a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Enviro/Material Instances/Fence.mtli.nasset"
+    }
+}
