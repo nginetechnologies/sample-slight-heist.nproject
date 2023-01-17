@@ -1,6 +1,7 @@
 {
     "name": "Slight Heist",
     "guid": "eb9c1c10-7193-4560-870d-c76cde3b19f2",
+    "database_guid": "265dd3e4-7945-4a33-beac-7cdf3024cb93",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -11,7 +12,7 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "f219ecab-2683-4910-8f8e-9309bbe2eb9f",
+    "thumbnail_guid": "8502bec5-1e75-5c07-6c15-71b130bd7624",
     "default_scene": "83ff29cb-97fc-44f8-b881-401ef94dd769",
     "source": "Project.nproject",
 	"settings": {

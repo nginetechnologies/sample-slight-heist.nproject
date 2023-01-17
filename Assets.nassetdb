@@ -1,4 +1,5 @@
 {
+    "guid": "265dd3e4-7945-4a33-beac-7cdf3024cb93",
     "0009975d-eca2-e4f7-f474-0d1088106dcd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1154,6 +1155,10 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Slight Heist.scene.nasset"
+    },
+    "8502bec5-1e75-5c07-6c15-71b130bd7624": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Slight_Heist_Thumb.tex.nasset"
     },
     "86a8fa17-9275-555c-0a62-a0829c2db523": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
