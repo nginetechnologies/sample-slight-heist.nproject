@@ -1,5 +1,4 @@
 {
-    "guid": "265dd3e4-7945-4a33-beac-7cdf3024cb93",
     "0009975d-eca2-e4f7-f474-0d1088106dcd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -99,6 +98,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "06dec0af-b15e-e429-4431-19474b509e54": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Character Main.mtli.nasset"
     },
     "07814089-0ebe-ca4c-97cb-996a32e4278f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -622,6 +625,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "429bebc4-eb54-c946-a7b6-2a8e2b5ada01": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Pants.mtli.nasset"
+    },
     "444fb50d-5306-cb52-7aa4-96d9a5ded0d6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -866,6 +873,10 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Black.mtli.nasset"
+    },
     "611b4aed-1562-30c6-922e-79e511d2bd26": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1017,6 +1028,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "717cab1f-ff25-bd86-79f5-1561a8fec4c4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/DarkGrey.mtli.nasset"
     },
     "718554a4-cb0b-54a3-8d54-7f8b2a88f5f5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1219,6 +1234,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "8cf89ad7-17d3-d68c-77ae-f1e4eec28f29": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Skin.mtli.nasset"
     },
     "8d63a575-7b27-e27d-a08c-bdabe206f0a2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1702,6 +1721,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "b91be93c-455e-d613-9950-bb6f5dff4610": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Grey.mtli.nasset"
     },
     "b978b5ba-9566-845e-ed1b-2f82449e51b5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2240,7 +2263,7 @@
     "eb9c1c10-7193-4560-870d-c76cde3b19f2": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
-        "thumbnail": "f219ecab-2683-4910-8f8e-9309bbe2eb9f"
+        "thumbnail": "8502bec5-1e75-5c07-6c15-71b130bd7624"
     },
     "ec66ce19-1e67-478b-a8e6-07b9cf74df4c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
