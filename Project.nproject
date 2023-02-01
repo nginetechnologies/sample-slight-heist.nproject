@@ -1,7 +1,7 @@
 {
     "name": "Slight Heist",
     "guid": "eb9c1c10-7193-4560-870d-c76cde3b19f2",
-    "database_guid": "265dd3e4-7945-4a33-beac-7cdf3024cb93",
+    "database_guid": "14b0baad-8c29-5c97-d596-bf0336f20012",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [

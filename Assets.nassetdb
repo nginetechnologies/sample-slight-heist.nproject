@@ -1,40 +1,16 @@
 {
-    "06dec0af-b15e-e429-4431-19474b509e54": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Material Instances/Character Main.mtli.nasset"
-    },
     "265dd3e4-7945-4a33-beac-7cdf3024cb93": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
-    },
-    "429bebc4-eb54-c946-a7b6-2a8e2b5ada01": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Material Instances/Pants.mtli.nasset"
-    },
-    "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Material Instances/Black.mtli.nasset"
     },
     "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
         "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
         "path": "Assets/Physical Materials/Box.physmat.nasset"
     },
-    "717cab1f-ff25-bd86-79f5-1561a8fec4c4": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Material Instances/DarkGrey.mtli.nasset"
-    },
     "83ff29cb-97fc-44f8-b881-401ef94dd769": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Slight Heist.scene.nasset"
-    },
-    "8cf89ad7-17d3-d68c-77ae-f1e4eec28f29": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Material Instances/Skin.mtli.nasset"
-    },
-    "b91be93c-455e-d613-9950-bb6f5dff4610": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Material Instances/Grey.mtli.nasset"
     },
     "eb9c1c10-7193-4560-870d-c76cde3b19f2": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
@@ -57,6 +33,7 @@
         "05d19827-eb07-c83e-8434-978c282aeb30",
         "067e5c16-572d-d6e8-0b01-b171ddb1ac8b",
         "06d027db-82ea-4f83-e9ce-fa146c1222e5",
+        "06dec0af-b15e-e429-4431-19474b509e54",
         "091a66de-6964-25ee-1af7-8b9f30433f48",
         "0ae53e28-4b4a-08b6-83b5-1e150d392588",
         "0af709dc-5557-b22c-b42c-a5ca3dfd7348",
@@ -146,6 +123,7 @@
         "406c5f53-1351-e178-9205-c75cdfa63b1e",
         "40e87f09-3735-082f-f761-a9b8ea176adf",
         "427a58d1-572e-93d3-8ab3-6d2e78e67c1f",
+        "429bebc4-eb54-c946-a7b6-2a8e2b5ada01",
         "42d4f0bf-5546-0ad3-7a5d-3afc37e63d0d",
         "437756ce-6e9f-fa78-88b7-cb02cf94ff86",
         "4392bb51-57bf-ca9a-25fc-74a42e847462",
@@ -201,6 +179,7 @@
         "606b11fc-4652-cf62-7963-687040794386",
         "60857ff7-e9f2-46b4-ca39-4d4a1895f990",
         "60a9f75d-6343-cacf-8c58-f8845e331189",
+        "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa",
         "60d7ec95-89f8-3b1b-7342-2018ef348372",
         "60e2c7da-523a-ccd7-25db-294ef4ae3859",
         "6161c7aa-acb5-21e1-1fbe-b5de02574691",
@@ -224,6 +203,7 @@
         "6fa201b5-1751-1537-ab03-cf2fdd4a6770",
         "704dd06d-c505-ee41-1783-77680c7841a4",
         "7166eeff-639f-4777-b1fa-0bdefa4b2e36",
+        "717cab1f-ff25-bd86-79f5-1561a8fec4c4",
         "71e28665-369b-6912-e923-0881cf188d9c",
         "720a99b0-e13e-ebac-4fd7-4fb1d20acf2c",
         "739cc087-2d51-75df-17ce-573a7d9eb72d",
@@ -266,6 +246,7 @@
         "8a710282-72e0-c192-75a6-ddc2d5525035",
         "8bd5d99e-d805-ed08-c2e4-6ea04b6d7c73",
         "8ca99564-f730-7273-133c-6244ab55b072",
+        "8cf89ad7-17d3-d68c-77ae-f1e4eec28f29",
         "8e4384ca-7b31-4048-2b9e-cdf73c89f58f",
         "8fedee7d-d09d-2c6d-63bb-79eeed537e3c",
         "90647a19-f6cb-b50f-d4e4-d78d38129c6b",
@@ -349,6 +330,7 @@
         "b8b09db4-b77d-50a8-1954-aed33e73769f",
         "b8df49c7-dd16-a627-f587-88eba02ffccc",
         "b8ed5814-dbc6-5faa-0e44-c95134d121bc",
+        "b91be93c-455e-d613-9950-bb6f5dff4610",
         "baaeaa52-d683-2436-15eb-bb2bf9ceb581",
         "bba84769-ccf3-97bc-e1f3-3b79f8119067",
         "bc481aa8-85cd-c178-c27b-fda565f691a2",
