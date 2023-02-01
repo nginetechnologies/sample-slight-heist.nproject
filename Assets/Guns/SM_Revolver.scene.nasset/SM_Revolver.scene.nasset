@@ -1,0 +1,31 @@
+{
+    "guid": "0c4cb4a8-0ec9-082d-2677-2d2f3100c96c",
+    "source": "../SM_Revolver.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "dc52deaf-57ba-171c-57b8-a0831dae6f38",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Revolver"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1da6816f-89c8-5b5b-5682-70622a2aee88",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Revolver"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6a5542f9-8d51-919d-4386-49d69b540027"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "0c4cb4a8-0ec9-082d-2677-2d2f3100c96c"
+    }
+}

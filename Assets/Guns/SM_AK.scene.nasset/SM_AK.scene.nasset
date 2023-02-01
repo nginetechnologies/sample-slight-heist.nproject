@@ -1,0 +1,31 @@
+{
+    "guid": "edd4f39a-b536-78e1-d98d-bc14d71a3231",
+    "source": "../SM_AK.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "46597484-e5bd-a715-4318-ab1b6bbce098",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "AK"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "85693c82-a0b4-19a2-959d-b9900ff02b97",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "AK"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43c4403e-f076-cefe-ecbf-41024d13d146"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "edd4f39a-b536-78e1-d98d-bc14d71a3231"
+    }
+}

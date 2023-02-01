@@ -1,0 +1,31 @@
+{
+    "guid": "ae3312e2-e841-626f-d3a7-d9f52b849d61",
+    "source": "../SM_Pistol.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "087a6d4e-ad9f-d511-bd66-2ff05d23d0a1",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Pistol"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8ccb5c71-7692-9965-7289-8ca8941361ba",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pistol"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fc0bea8c-aa13-5f21-9b6c-2f8a898bf152"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "ae3312e2-e841-626f-d3a7-d9f52b849d61"
+    }
+}

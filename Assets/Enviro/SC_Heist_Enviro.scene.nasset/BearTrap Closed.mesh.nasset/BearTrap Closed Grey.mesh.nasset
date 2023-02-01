@@ -1,7 +1,7 @@
 {
-    "guid": "40a1d528-f4d1-9d3f-7fd2-e137be5c087b",
+    "guid": "d9b91be8-041b-3911-c0a4-b09d1062ee8b",
     "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-    "instanceGuid": "24c34081-2046-ebd2-5d67-3fc10e41d4e9",
+    "instanceGuid": "6fbc09f9-9732-bfcb-2722-ea8e07f9c3cd",
     "data_components": [
         {
             "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
@@ -11,7 +11,7 @@
     "children": [
         {
             "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "4a96afd8-bb8a-2dc3-f7d9-17f6193f7ab8",
+            "instanceGuid": "e5a1c94c-0046-2885-772e-73b2f3df23e0",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -21,7 +21,7 @@
             "children": [
                 {
                     "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "79f65185-3178-dff8-87a5-72f688555bbc",
+                    "instanceGuid": "3ae94963-5214-ab2d-ba2e-a47cbc72b138",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -35,21 +35,24 @@
                         ]
                     },
                     "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "40a1d528-f4d1-9d3f-7fd2-e137be5c087b",
-                        "material_instance": "8835e47f-1bec-7680-8aa4-bff3b158bc5e"
+                        "mesh": "d9b91be8-041b-3911-c0a4-b09d1062ee8b",
+                        "material_instance": "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
                     }
                 }
             ],
             "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "40a1d528-f4d1-9d3f-7fd2-e137be5c087b"
+                "mesh": "d9b91be8-041b-3911-c0a4-b09d1062ee8b"
             },
             "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                 "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
             }
         }
     ],
-    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
     "tags": [
         "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+    ],
+    "dependencies": [
+        "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
     ]
 }

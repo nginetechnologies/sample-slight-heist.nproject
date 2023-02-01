@@ -1,0 +1,31 @@
+{
+    "guid": "4517c7b1-a27a-7a87-24c8-d40c7945bbfc",
+    "source": "../SM_Rocket_Launcher.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "ac1841e8-f6ed-7ac8-d1a9-fe37fcdbc34c",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Rocket Launcher"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bfdb21e4-c3f3-8bac-4e04-2f14d8a2da32",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rocket Launcher"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "acbb716c-9d96-e500-a804-f4570078580d"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "4517c7b1-a27a-7a87-24c8-d40c7945bbfc"
+    }
+}

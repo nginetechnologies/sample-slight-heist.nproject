@@ -1,6 +1,9 @@
 {
-    "guid": "67e6056d-3a38-bdd3-ad87-4852b2dbfaac",
+    "guid": "02cdd4f5-6bbf-8189-2782-83ae98c622ea",
     "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+    "dependencies": [
+        "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+    ],
     "material": "a897cdfa-a65f-4222-a5ab-d64df68c17b6",
     "push_constants": [
         {

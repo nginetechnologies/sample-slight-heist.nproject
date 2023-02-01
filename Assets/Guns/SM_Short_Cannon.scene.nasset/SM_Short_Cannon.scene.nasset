@@ -1,0 +1,31 @@
+{
+    "guid": "30c46540-3ee7-1ad3-91af-c5b666ea5f25",
+    "source": "../SM_Short_Cannon.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "8173f5ca-7361-3734-e66c-27d97eddea0b",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Short Cannon"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "812737ac-c3cc-25b1-e8b8-532a21a854f5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Short Cannon"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bba84769-ccf3-97bc-e1f3-3b79f8119067"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "30c46540-3ee7-1ad3-91af-c5b666ea5f25"
+    }
+}

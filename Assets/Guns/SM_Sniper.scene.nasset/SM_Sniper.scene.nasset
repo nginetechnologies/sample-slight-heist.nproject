@@ -1,0 +1,31 @@
+{
+    "guid": "be4cd0d3-d87b-6b69-7785-2766572f6e66",
+    "source": "../SM_Sniper.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e088b2e8-9e2d-b904-92ff-1a1cb8a0c288",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Sniper"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9dd8ec2a-1df5-6e5c-f84e-0b7e5b15b3da",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sniper"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fdec8a96-1ace-4f5d-afd6-d7f19bfa1f57"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "be4cd0d3-d87b-6b69-7785-2766572f6e66"
+    }
+}

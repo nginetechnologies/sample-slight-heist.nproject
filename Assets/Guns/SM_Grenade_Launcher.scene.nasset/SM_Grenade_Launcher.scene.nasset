@@ -1,0 +1,31 @@
+{
+    "guid": "36201c2d-41da-3c33-88ec-b55da77dfb36",
+    "source": "../SM_Grenade_Launcher.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c7b36ad6-a859-be16-6230-866ba78d9766",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Grenade Launcher"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "02e21da1-2913-12dd-6142-1c8b64887a0c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grenade Launcher"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "875e56c6-4564-abca-3df4-6b49b7329784"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "36201c2d-41da-3c33-88ec-b55da77dfb36"
+    }
+}

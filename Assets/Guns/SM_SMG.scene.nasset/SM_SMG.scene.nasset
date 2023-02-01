@@ -1,0 +1,31 @@
+{
+    "guid": "fe02aef4-85cc-e140-9819-649263f17842",
+    "source": "../SM_SMG.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "738b474a-ad7c-e0f2-cd3c-8ce61d8cab6a",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SMG"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0bfb30ae-87a1-5604-72a1-27046360b383",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SMG"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "45710e60-f1af-5280-39ea-651b4a47c75e"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "fe02aef4-85cc-e140-9819-649263f17842"
+    }
+}

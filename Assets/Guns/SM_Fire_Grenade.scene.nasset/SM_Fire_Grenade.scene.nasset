@@ -1,0 +1,31 @@
+{
+    "guid": "38570872-0196-741e-6cdc-1f8022e553f3",
+    "source": "../SM_Fire_Grenade.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "1c787c7b-9911-917a-7b8f-5105969a24d0",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Fire Grenade"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9a83a3b2-0ff1-a940-ab11-a1b0d3ad0ec3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fire Grenade"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b25a6978-7e3e-973f-0ce6-26b286841dfe"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "38570872-0196-741e-6cdc-1f8022e553f3"
+    }
+}

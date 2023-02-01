@@ -1,0 +1,31 @@
+{
+    "guid": "b014865e-a2d8-c8fc-454c-2a3be288d1f5",
+    "source": "../SM_Shovel.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "f2b4a603-3489-06a7-de87-e0880316c210",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Shovel"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f5763376-3eff-4583-64af-ec629ffb7aba",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Shovel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "88542050-8cdb-7f5e-d11c-a8daf4bec939"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b014865e-a2d8-c8fc-454c-2a3be288d1f5"
+    }
+}

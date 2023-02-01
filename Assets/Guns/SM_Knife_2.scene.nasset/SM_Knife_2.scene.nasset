@@ -1,0 +1,31 @@
+{
+    "guid": "b331aca0-06c4-b8ab-169d-d30b26cb8b95",
+    "source": "../SM_Knife_2.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d1ae0d69-670d-a667-d102-f8ec53760521",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Knife 2"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9b0b3114-380f-66e4-56fd-bd2e2dd6a814",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Knife 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "33db870b-9dd7-cf4a-1331-586017ef0b38"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b331aca0-06c4-b8ab-169d-d30b26cb8b95"
+    }
+}

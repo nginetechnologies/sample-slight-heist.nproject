@@ -1,0 +1,31 @@
+{
+    "guid": "93106d43-bdad-00c8-7e38-5cfbdb24cf8e",
+    "source": "../SM_Grenade.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "887d4d2c-25a1-301f-0563-3a21a8c6d235",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Grenade"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "53b04706-e43f-60ef-075a-12252f580c77",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grenade"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0ce5f205-2337-1d24-5cf7-d3d75f6f42f6"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "93106d43-bdad-00c8-7e38-5cfbdb24cf8e"
+    }
+}

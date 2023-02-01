@@ -1,16 +1,24 @@
 {
-    "guid": "b978b5ba-9566-845e-ed1b-2f82449e51b5",
+    "guid": "4d8aa606-b271-41db-399c-095bba551a35",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
+    "dependencies": [
+        "10c4119d-ce9b-65a7-10d3-527067dd9584",
+        "eef8ae58-7242-e233-9b5f-46b2ed47b33d",
+        "d4f81575-b8b9-48b9-a1b0-a68181bd2624",
+        "6d429c16-40f2-b2c4-0326-50f44b961468",
+        "bcc585f9-ec3a-f81d-f21a-43badc9800d9",
+        "1e693d8c-8c29-a90d-c426-9dbdee53d37c"
+    ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "62727026-5011-a666-8000-c1d899010255",
+    "instanceGuid": "90e04769-7a49-8391-ae49-19f224d3e1ae",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "63456540-65b9-dd5b-9a6c-239028fb7878",
+            "instanceGuid": "b580af5a-d0f6-c335-5db6-f74cb466f412",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,7 +32,7 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "0518ebe0-eac8-e854-e445-af1de28adba8",
+                    "instanceGuid": "0186e89f-36b4-a55f-f1df-ca42a3771af5",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -34,7 +42,7 @@
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "1ee2e7cd-b85d-7f88-a3a1-a15809855fd5",
+                            "instanceGuid": "04b2b7b3-92a3-d635-030c-a5093d3a1578",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -48,13 +56,89 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "9cbfb1e0-4627-afbf-f0ed-f095e507f24e",
-                                "material_instance": "f88dc0a5-0031-c390-b964-665fc3f2c9da"
+                                "mesh": "10c4119d-ce9b-65a7-10d3-527067dd9584",
+                                "material_instance": "eef8ae58-7242-e233-9b5f-46b2ed47b33d"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "9cbfb1e0-4627-afbf-f0ed-f095e507f24e"
+                        "mesh": "10c4119d-ce9b-65a7-10d3-527067dd9584"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "27bedf8c-d9ce-f19e-1840-f10b99af7098",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Gate Door Wall LG Concrete Dark Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "592c3fe0-3a01-fffc-f0c7-b49d91d272f5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Gate Door Wall LG Concrete Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d4f81575-b8b9-48b9-a1b0-a68181bd2624",
+                                "material_instance": "6d429c16-40f2-b2c4-0326-50f44b961468"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "d4f81575-b8b9-48b9-a1b0-a68181bd2624"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "4a820c9f-3948-1cd9-4368-542ccfd2c5e1",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Gate Door Wall LG Grey. Blue Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "78eb60e9-f066-4a19-8e44-7f825d7d7453",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Gate Door Wall LG Grey. Blue"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bcc585f9-ec3a-f81d-f21a-43badc9800d9",
+                                "material_instance": "1e693d8c-8c29-a90d-c426-9dbdee53d37c"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "bcc585f9-ec3a-f81d-f21a-43badc9800d9"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -64,6 +148,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "b978b5ba-9566-845e-ed1b-2f82449e51b5"
+        "scene": "4d8aa606-b271-41db-399c-095bba551a35"
     }
 }
