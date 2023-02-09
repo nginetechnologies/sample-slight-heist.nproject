@@ -3,10 +3,6 @@
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
     },
-    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
-        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
-        "path": "Assets/Physical Materials/Box.physmat.nasset"
-    },
     "83ff29cb-97fc-44f8-b881-401ef94dd769": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
@@ -200,6 +196,7 @@
         "6d4e706a-ba3f-86f0-327b-4bc4313465a9",
         "6d7acf6e-a623-7419-e474-4ee4eef64be4",
         "6e51b063-f950-4b5e-d896-0e801feca490",
+        "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76",
         "6fa201b5-1751-1537-ab03-cf2fdd4a6770",
         "704dd06d-c505-ee41-1783-77680c7841a4",
         "7166eeff-639f-4777-b1fa-0bdefa4b2e36",
