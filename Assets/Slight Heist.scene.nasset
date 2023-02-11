@@ -12385,6 +12385,21 @@
             ]
         },
         {
+             "typeGuid": "37000929-8ed6-4f15-a9ec-4f7d15302f02",
+             "instanceGuid": "18346473-407b-41da-9738-296707036b30",
+             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                 "rotation": [
+                     -90, 0, 0
+                 ]
+             },
+             "data_components": [
+                 {
+                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                     "name": "Directional Gravity"
+                 }
+             ]
+         },
+        {
             "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
             "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
