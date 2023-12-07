@@ -6,7 +6,10 @@
     "83ff29cb-97fc-44f8-b881-401ef94dd769": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Slight Heist.scene.nasset"
+        "path": "Assets/Slight Heist.scene.nasset",
+        "metadata": {
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-3.4301,-15.9495,24.7722],\"rotation\":[-42.2978,-0.0,-53.6873]}"
+        }
     },
     "eb9c1c10-7193-4560-870d-c76cde3b19f2": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
@@ -419,7 +422,7 @@
         "fde7ed4f-e494-83a2-d522-fbc2af554b3a",
         "fdec8a96-1ace-4f5d-afd6-d7f19bfa1f57",
         "fee850ec-b299-2cef-2bb4-2d6032351859",
-        "ffdf01dd-8f8f-30d8-b324-2ad53df2109a",
-        "ff0fa41f-4110-4402-b52d-b4f23b97a17c"
+        "ff0fa41f-4110-4402-b52d-b4f23b97a17c",
+        "ffdf01dd-8f8f-30d8-b324-2ad53df2109a"
     ]
 }
